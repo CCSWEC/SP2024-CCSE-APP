@@ -8,7 +8,7 @@ here is a tut i found really helpful when using sqlite -> https://youtube.com/pl
 
 Default IDE will be android studio but if entire group agrees to switch to a different one then that is allowed!
 
-Challenge:
+Challenge (does not need to be implemented):
   1. Add in at least one third party API (make sure its free) so if you're building a wellness app, integrate it with an API relating to health that displays information from the website (mayoclinic, healthline, etc)
 
 reach out to togunleye1@collin.edu if you have questions
