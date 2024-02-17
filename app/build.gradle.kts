@@ -4,7 +4,7 @@ plugins {
 
 android {
     namespace = "com.example.ccsesp2024"
-    compileSdk = 33
+    compileSdk = 34
 
     defaultConfig {
         applicationId = "com.example.ccsesp2024"
