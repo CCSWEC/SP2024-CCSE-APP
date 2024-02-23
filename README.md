@@ -1,7 +1,6 @@
 # SP2024-CCSE-APP
 App repo for ccse spring 2024 app project
 
-
 You will be creating an app!
 The nature of the app is up to the group to deccide but the app must have the ability to read and write data from a database (would reccoment Sqlite)
 here is a tut i found really helpful when using sqlite -> https://youtube.com/playlist?list=PLSrm9z4zp4mGK0g_0_jxYGgg3os9tqRUQ&si=hPkaxw3Ef_c6Q8_5
